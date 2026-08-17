@@ -1,0 +1,74 @@
+version: '3.8'
+
+services:
+  # ====== MongoDB ======
+  mongodb:
+    image: mongo:6
+    container_name: express-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin123
+      MONGO_INITDB_DATABASE: express_industry_demo
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - express-network
+
+  # ====== Redis ======
+  redis:
+    image: redis:7-alpine
+    container_name: express-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    command: redis-server --requirepass redis123
+    volumes:
+      - redis_data:/data
+    networks:
+      - express-network
+
+  # ====== 应用 ======
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: express-app
+    restart: unless-stopped
+    ports: 
+      - "3000:3000"
+    environment:
+      NODE_ENV: development        # 或 production
+      PORT: 3000
+      MONGODB_URI: mongodb://admin:admin123@mongodb:27017/express_industry_demo?authSource=admin
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      REDIS_PASSWORD: redis123
+      REDIS_DB: 0
+      JWT_SECRET: your_super_secret_key_here
+      JWT_EXPIRES_IN: 7d
+      LOG_LEVEL: info
+    depends_on:
+      - mongodb
+      - redis
+    volumes:
+      # 开发时挂载源码，实现热重载（可选）
+      - ./src:/app/src
+      - ./logs:/app/logs
+      - ./package.json:/app/package.json
+      - ./package-lock.json:/app/package-lock.json
+      # 不挂载 node_modules，用容器内的
+    networks:
+      - express-network
+
+# 数据卷持久化
+volumes:
+  mongodb_data:
+  redis_data:
+
+# 自定义网络
+networks:
+  express-network:
+    driver: bridge

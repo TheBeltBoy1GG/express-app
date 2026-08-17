@@ -1,0 +1,530 @@
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:21:00"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:21:00"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:21:00"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:21:00"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:21:00"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:21:00"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:21:05"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:21:05"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:21:05"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:21:05"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:21:05"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:21:05"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:21:13"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:21:13"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:21:13"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:21:13"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:21:13"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:21:13"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:21:16"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:21:16 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:21:16"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:22:17"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:22:17"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:22:17"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:22:17"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:22:17"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:22:17"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:22:19"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:22:19 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:22:19"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:22:56"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:22:56"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:22:56"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:22:56"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:22:56"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:22:56"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:22:59"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:22:59 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:22:59"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:29:24"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:29:24"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:29:24"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:29:24"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:29:24"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:29:24"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:29:31"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:29:31"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:29:31"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:29:31"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:29:31"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:29:31"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:29:32"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:29:32"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:29:32"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:29:32"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:29:32"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:29:32"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:29:38"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:29:38 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:29:38"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:30:05"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:30:05"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:30:05"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:30:05"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:30:05"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:30:05"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:30:06"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:30:06"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:30:06"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:30:06"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:30:06"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:30:06"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:30:12"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:30:12 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:30:12"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:30:20"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:30:20"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:30:20"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:30:20"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:30:20"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:30:20"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:30:21"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:30:21 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:30:21"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:30:47"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:30:47"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:30:47"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:30:47"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:30:47"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:30:47"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:30:55"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:30:55"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:30:55"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:30:55"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:30:55"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:30:55"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:30:58"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:30:58"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:30:58"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:30:58"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:30:58"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:30:58"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:31:02"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:31:02 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:31:02"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:31:29"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:31:29"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:31:29"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:31:29"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:31:29"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:31:29"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:31:30"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:31:30"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:31:30"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:31:30"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:31:30"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:31:30"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:31:31"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:31:31 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:31:31"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:31:42"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:31:42"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:31:42"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:31:42"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:31:42"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:31:42"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:31:50"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:31:50"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:31:50"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:31:50"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:31:50"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:31:50"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:31:52"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:31:52"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:31:52"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:31:52"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:31:52"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:31:52"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:31:56"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:31:56 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:31:56"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:32:14"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:32:14"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:32:14"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:32:14"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:32:14"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:32:14"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:32:40"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:32:40"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:32:40"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:32:40"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:32:40"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:32:40"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:32:41"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:32:41"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:32:41"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:32:41"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:32:41"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:32:41"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:32:47"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:32:47"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:32:47"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:32:47"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:32:47"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:32:47"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:32:49"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:32:49"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:32:49"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:32:49"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:32:49"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:32:49"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:32:50"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:32:50"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:32:50"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:32:50"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:32:50"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:32:50"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:32:54"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:32:54 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:32:54"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:33:20"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:33:20 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:33:20"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:33:34"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:33:34"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:33:34"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:33:34"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:33:34"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:33:34"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:33:35"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:33:35"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:33:35"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:33:35"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:33:35"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:33:35"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:33:39"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:33:39"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:33:39"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:33:39"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:33:39"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:33:39"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:33:46"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:33:46"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:33:46"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:33:46"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:33:46"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:33:46"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:33:49"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:33:49"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:33:49"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:33:49"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:33:49"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:33:49"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:33:49"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:33:49 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:33:49"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:34:54"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:34:54"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:34:54"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:34:54"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:34:54"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:34:54"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:34:59"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:34:59 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:34:59"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:35:20"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:35:20"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:35:20"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:35:20"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:35:20"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:35:20"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:35:23"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:35:23"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:35:23"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:35:23"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:35:23"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:35:23"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:37:02"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:37:02"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:37:02"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:37:02"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:37:02"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:37:02"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:37:28"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:37:28"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:37:28"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:37:28"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:37:28"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:37:28"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:37:32"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:37:32 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:37:32"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:38:03"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:38:03"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:38:03"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:38:03"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:38:03"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:38:03"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:38:06"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:38:06 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:38:06"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:38:40"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:38:40"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:38:40"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:38:40"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:38:40"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:38:40"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:38:42"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:38:42"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:38:42"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:38:42"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:38:42"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:38:42"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:38:43"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:38:43 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:38:43"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:38:52"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:38:52"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:38:52"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:38:52"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:38:52"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:38:52"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:38:53"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:38:53 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:38:53"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:40:20"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:40:20"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:40:20"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:40:20"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:40:20"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:40:20"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:40:27"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:40:27"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:40:27"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:40:27"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:40:27"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:40:27"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:40:33"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:40:33 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:40:33"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:40:51"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:40:51"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:40:51"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:40:51"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:40:51"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:40:51"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:40:56"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:40:56"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:40:56"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:40:56"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:40:56"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:40:56"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:40:57"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:40:57"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:40:57"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:40:57"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:40:57"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:40:57"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:41:00"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:41:00 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:41:00"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:42:28"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:42:28"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:42:28"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:42:28"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:42:28"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:42:28"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:42:32"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:42:32"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:42:32"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:42:32"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:42:32"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:42:32"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:42:35"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:42:35"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:42:35"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:42:35"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:42:35"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:42:35"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:42:36"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:42:36"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:42:36"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:42:36"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:42:36"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:42:36"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:42:43"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:42:43 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:42:43"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:44:31"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:44:31"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:44:31"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:44:31"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:44:31"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:44:31"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:44:39"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:44:39"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:44:39"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:44:39"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:44:39"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:44:39"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:44:44"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:44:44"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:44:44"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:44:44"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:44:44"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:44:44"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:44:48"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:44:48"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:44:48"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:44:48"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:44:48"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:44:48"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:44:54"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:44:54"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:44:54"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:44:54"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:44:54"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:44:54"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:46:13"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:46:13"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:46:13"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:46:13"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:46:13"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:46:13"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:46:15"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:46:15"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:46:15"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:46:15"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:46:15"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:46:15"}
+{"level":"error","message":"[系统错误] Error: existingUser is not defined\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:46:28"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:46:28 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:46:28"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:47:07"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:47:07"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:47:07"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:47:07"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:47:07"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:47:07"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:47:08"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:47:08"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:47:08"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:47:08"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:47:08"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:47:08"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:47:20"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:47:20"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:47:20"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:47:20"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:47:20"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:47:20"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:47:22"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:47:22"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:47:22"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:47:22"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:47:22"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:47:22"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:47:25"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:47:25 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:47:25"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:48:00"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:48:00"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:48:00"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:48:00"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:48:00"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:48:00"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:48:03"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:48:03"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:48:03"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:48:03"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:48:03"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:48:03"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:48:09"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:48:09"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:48:09"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:48:09"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:48:09"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:48:09"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:48:16"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:48:16"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:48:16"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:48:16"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:48:16"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:48:16"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:48:26"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:48:26"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:48:26"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:48:26"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:48:26"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:48:26"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:48:37"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:48:37"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:48:37"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:48:37"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:48:37"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:48:37"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:48:41 +0000] \"POST /api/users/register HTTP/1.1\" 201 35 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:48:41"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:48:58"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:48:58"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:48:58"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:48:58"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:48:58"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:48:58"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:48:59"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:48:59"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:48:59"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:48:59"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:48:59"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:48:59"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:49:06"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:49:06"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:49:06"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:49:06"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:49:06"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:49:06"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:49:08"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:49:08"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:49:08"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:49:08"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:49:08"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:49:08"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:49:11"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:49:11"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:49:11"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:49:11"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:49:11"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:49:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:49:15 +0000] \"POST /api/users/register HTTP/1.1\" 201 35 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:49:15"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:49:45"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:49:45"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:49:45"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:49:45"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:49:45"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:49:45"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:49:50"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:49:50"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:49:50"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:49:50"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:49:50"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:49:50"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:49:54"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:49:54"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:49:54"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:49:54"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:49:54"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:49:54"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:50:55 +0000] \"POST /api/users/register HTTP/1.1\" 201 35 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:50:55"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:51:07 +0000] \"POST /api/users/register HTTP/1.1\" 201 35 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:51:07"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:52:11"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:52:11"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:52:11"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:52:11"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:52:11"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:52:11"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:52:12"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:52:12"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:52:12"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:52:12"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:52:12"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:52:12"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:52:15"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:52:15 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:52:15"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:54:53"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:55:11"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:55:55"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:55:55"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:55:55"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:55:55"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:55:55"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:55:56"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:56:27"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:56:27 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:56:27"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:56:42"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:56:42 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:56:42"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:56:43"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:56:43 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:56:43"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:56:44"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:56:44 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:56:44"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:58:53"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:58:53"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:58:53"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:58:53"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:58:53"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:58:53"}
+{"level":"info","message":"🚀 服务器启动成功","timestamp":"2026-08-16 23:59:29"}
+{"level":"info","message":"   - 环境: development","timestamp":"2026-08-16 23:59:29"}
+{"level":"info","message":"   - 端口: 3000","timestamp":"2026-08-16 23:59:29"}
+{"level":"info","message":"   - 访问: http://localhost:3000","timestamp":"2026-08-16 23:59:29"}
+{"level":"info","message":"   - 健康检查: http://localhost:3000/api/health","timestamp":"2026-08-16 23:59:29"}
+{"level":"info","message":"MongoDB 连接成功: mongodb://localhost:27017/express_industry_demo","timestamp":"2026-08-16 23:59:29"}
+{"level":"error","message":"[系统错误] Error: next is not a function\n    at errorHandler (file:///E:/work/PersonalProjectCollection/express/express-demo2/middlewares/errorHandler.js:19:13)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:116:17)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)\n    at next (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:291:5)\n    at Layer.handleError (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\lib\\layer.js:111:12)\n    at trimPrefix (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:340:13)\n    at E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:297:9\n    at processParams (E:\\work\\PersonalProjectCollection\\express\\express-demo2\\node_modules\\.pnpm\\router@2.2.0\\node_modules\\router\\index.js:582:12)","timestamp":"2026-08-16 23:59:43"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Aug/2026:15:59:43 +0000] \"POST /api/users/register HTTP/1.1\" 500 - \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2026-08-16 23:59:43"}

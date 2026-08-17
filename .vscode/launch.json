@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "启动服务",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/server.js",          // 你的服务入口文件
+      "cwd": "${workspaceFolder}",                     // 工作目录（当前项目根）
+      "env": {
+        "NODE_ENV": "development",                     // 设置环境变量
+        "PORT": "3000"
+      },
+      "runtimeArgs": [],                               // 可加 --inspect 等（默认已带）
+      "console": "integratedTerminal",
+      "runtimeExecutable": "nodemon",                 // 输出到集成终端
+      "autoAttachChildProcesses": true                 // 自动附加子进程（如 cluster）
+    },
+  ]
+}
