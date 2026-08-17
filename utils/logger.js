@@ -9,9 +9,17 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // 确保日志目录存在（如果不存在则创建）
-const logDir = path.join(__dirname, '../../logs');
-if (!fs.existsSync(logDir)) {
-  fs.mkdirSync(logDir, { recursive: true });
+// 确定日志目录
+const LOG_DIR = process.env.LOG_DIR
+  || (process.env.NODE_ENV === 'production' ? '/tmp/logs' : path.join(__dirname, '../logs'));
+const logDir = path.join(__dirname, '../logs');
+// 创建日志目录（如果失败则置空）
+let logDirReady = false;
+try {
+  fs.mkdirSync(LOG_DIR, { recursive: true });
+  logDirReady = true;
+} catch (err) {
+  console.warn(`⚠️ 无法创建日志目录 ${LOG_DIR}，将仅输出控制台日志`, err.message);
 }
 
 // 定义日志格式
