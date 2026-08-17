@@ -49,7 +49,18 @@ app.use(express.urlencoded({ extended: true }));       // 表单格式
 app.use(cookieParser()); // 解析 Cookie 中间件
 
 // 4. 限流（防爆破）
-const limiter = rateLimit({ windowMs: 15 * 60 * 1000, max: 100 });
+app.set('trust proxy', 1);
+
+// 2. 配置限流器（可选地去除端口）
+const limiter = rateLimit({
+    windowMs: 15 * 60 * 1000,
+    max: 100,
+    keyGenerator: (req) => {
+        // req.ip 现在会由 trust proxy 设置提供真实 IP
+        return req.ip?.replace(/:\d+[^:]*$/, '') || req.socket.remoteAddress;
+    }
+});
+
 app.use(limiter);
 
 // 5. 静态资源（放在后面，因为不需要额外处理）
