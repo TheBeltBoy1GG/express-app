@@ -6,7 +6,7 @@ const app = express();
 import helmet from 'helmet'
 import cors from 'cors'
 import compression from 'compression'
-import rateLimit from 'express-rate-limit'
+import rateLimit,{ ipKeyGenerator } from 'express-rate-limit'
 
 import cookieParser from 'cookie-parser';
 import morgan from "morgan"
@@ -56,8 +56,10 @@ const limiter = rateLimit({
     windowMs: 15 * 60 * 1000,
     max: 100,
     keyGenerator: (req) => {
-        // req.ip 现在会由 trust proxy 设置提供真实 IP
-        return req.ip?.replace(/:\d+[^:]*$/, '') || req.socket.remoteAddress;
+        /// 获取 IP 地址
+        const ip = req.ip ?? req.socket?.remoteAddress;
+        // 如果 IP 存在，则使用 ipKeyGenerator 处理；否则返回 'unknown'
+        return ip ? ipKeyGenerator(ip) : 'unknown';
     }
 });
 
